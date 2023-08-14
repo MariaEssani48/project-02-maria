@@ -1,6 +1,6 @@
 Atm
 
-TYPE "npx maria-atm" on command prompt 
+TYPE "npx atm-Maria" on command prompt 
 
 
 * YOU CAN WITHDRAW CASH
